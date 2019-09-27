@@ -1,0 +1,12 @@
+Test Line Numbers: false
+Line 22: Has incorrect line number 23.
+Line 51: Greater than 50 lines.
+Test Random Numbers: false
+Line 1: Random number is less than 100. Number is: 99
+Line 15: Random number is greater than 500. Number is 555
+Line 19: Line does not end with digits.
+Line 27: Random number is less than 100. Number is: 27
+Warning line 27: Random number is equal to line number, This shouldn't happen often.
+Test Line Pattern: false
+Line 19: Line is not a two digit number followed by a tab followed by three digits.
+Line 51: Line is not a two digit number followed by a tab followed by three digits.
